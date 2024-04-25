@@ -1,0 +1,10 @@
+
+{
+    "env": { 
+       "DB_USER": "sumaiya_mohamed",
+       "DB_PASSWORD": "oM2qybTL7PVPPVlX",
+       "DB_NAME": "mern",
+       "GOOGLE_API_KEY": "AIzaSyDgLmMpKCzveJf1_yuA0fUzzhy0WRChvZA",
+       "PRIVATE_KEY": "supersecret_dont_share"
+    }
+}
